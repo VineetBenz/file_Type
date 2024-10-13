@@ -1,0 +1,4 @@
+#Tue Aug 29 14:00:36 EDT 2023
+LauncherActivity="
+ModalActivity=$
+MainActivity=\#
