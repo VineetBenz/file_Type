@@ -1,4 +1,3 @@
-Test Accuracy: 1.00
 
 Classification Report:
               precision    recall  f1-score   support
